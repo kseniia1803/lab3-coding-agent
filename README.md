@@ -37,3 +37,4 @@ Instructions:
 5. Upload the url to your completed repo to sakai.
 
 <!-- linux sux, microsoft rules -->
+<!-- rust is the best! -->
